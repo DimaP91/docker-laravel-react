@@ -5,5 +5,5 @@ Second push and run in your docker machine =>
     docker-compose up -d
     
 At last build frotend part =>
-    npm i
+    npm i =>
     npm run dev
